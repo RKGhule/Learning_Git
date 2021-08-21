@@ -1,1 +1,3 @@
 i made the changes 
+
+before commiting making changes
